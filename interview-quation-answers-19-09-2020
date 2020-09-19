@@ -1,0 +1,19 @@
+/*
+	Interview Quation and Answers - 19-09-2020
+**/
+//Configure Multiple DataSource using Spring Boot and Spring Data
+https://www.youtube.com/watch?v=iDogrHEo4x0
+https://github.com/Java-Techie-jt/spring-boot-multiple-datasource
+
+https://www.youtube.com/watch?v=GSt479r1T04
+https://github.com/KindsonTheGenius/MultipleDBConfig
+https://www.kindsonthegenius.com/microservices/multiple-database-configuration-for-microservice-in-spring-boot/
+
+https://www.youtube.com/watch?v=MZF7IWRfKsA
+https://github.com/ramram43210/Java_Spring_2019/tree/master/JavaEE_2019/Spring_Boot_Multiple_DataSource
+
+
+//Profiles in Spring Boot | Spring Profiles
+https://www.youtube.com/watch?v=Op4SRM3t0nw
+
+https://www.youtube.com/watch?v=P91tqdWUHE4
